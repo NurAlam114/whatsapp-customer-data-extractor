@@ -9,6 +9,11 @@ A Python automation tool to extract customer data from WhatsApp Web using Playwr
 
 ## Setup
 
+requirements:
+-playwright
+-pandas
+-openpyxl
+
 Install dependencies:
 
 ```bash
